@@ -19,7 +19,7 @@
   "dependencies": {
     "@cdf/errors": "^4.0.0",
     "@cdf/config-inject": "^4.0.1",
-    "axios": "0.21.2",
+    "axios": "1.6.0",
     "js-yaml": "4.1.0",
     "jsonwebtoken": "8.5.1",
     "jwk-to-pem": "2.0.4",
